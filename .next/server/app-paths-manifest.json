@@ -1,0 +1,8 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/dashboard/messages/page": "app/dashboard/messages/page.js",
+  "/dashboard/pay/page": "app/dashboard/pay/page.js",
+  "/dashboard/rewards/page": "app/dashboard/rewards/page.js",
+  "/dashboard/settings/page": "app/dashboard/settings/page.js"
+}
